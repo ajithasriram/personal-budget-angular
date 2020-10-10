@@ -2,7 +2,7 @@
     "myBudget": [
         {
             "title": "Eat Out",
-            "budget": 40,
+            "budget": 250,
             "backgroundColor": "#6E80E5"
         },
         {
@@ -12,17 +12,17 @@
         },
         {
             "title": "Groceries",
-            "budget": 60,
+            "budget": 300,
             "backgroundColor": "#949AB6"
         },
         {
             "title": "College Fee",
-            "budget": 2000,
+            "budget": 500,
             "backgroundColor": "#4d5791"
         },
         {
             "title": "Phone Bill",
-            "budget": 30,
+            "budget": 100,
             "backgroundColor": "#B9C4FE"
         },
         {
